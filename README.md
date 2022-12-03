@@ -1,3 +1,2 @@
 # Smurfo
-commit test 
-test pull
+created qa branch
